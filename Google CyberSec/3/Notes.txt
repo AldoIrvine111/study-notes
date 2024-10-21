@@ -1,0 +1,92 @@
+Controls, frameworks, and compliance
+
+The confidentiality, integrity, and availability (CIA) triad is a model that helps inform how organizations consider risk when setting up systems and security policies. 
+
+Security controls are safeguards designed to reduce specific security risks. So they are used alongside frameworks to ensure that security goals and processes are implemented correctly and that organizations meet regulatory compliance requirements.
+
+Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy. They have four core components:
+
+    1. Identifying and documenting security goals 
+    2. Setting guidelines to achieve security goals 
+    3. Implementing strong security processes
+    4. Monitoring and communicating results
+
+Compliance is the process of adhering to internal standards and external regulations.
+
+================================================================================================================================
+
+Specific controls, frameworks, and compliance
+The National Institute of Standards and Technology (NIST) is a U.S.-based agency that develops multiple voluntary compliance frameworks that organizations worldwide can use to help manage risk. 
+The more aligned an organization is with compliance, the lower the risk.
+
+Examples of frameworks include the NIST Cybersecurity Framework (CSF) and the NIST Risk Management Framework (RMF). 
+
+================================================================================================================================
+
+Ethical concepts that guide cybersecurity decisions
+
+United States standpoint on counterattacks 
+In the U.S., deploying a counterattack on a threat actor is illegal because of laws like the Computer Fraud and Abuse Act of 1986 and the Cybersecurity Information Sharing Act of 2015, among others. 
+You can only defend. 
+The act of counterattacking in the U.S. is perceived as an act of vigilantism. 
+A vigilante is a person who is not a member of law enforcement who decides to stop a crime on their own.
+And because threat actors are criminals, counterattacks can lead to further escalation of the attack, which can cause even more damage and harm. 
+Lastly, if the threat actor in question is a state-sponsored hacktivist, a counterattack can lead to serious international implications. 
+A hacktivist is a person who uses hacking to achieve a political goal. 
+The political goal may be to promote social change or civil disobedience. 
+
+For these reasons, the only individuals in the U.S. who are allowed to counterattack are approved employees of the federal government or military personnel. 
+
+International standpoint on counterattacks
+The International Court of Justice (ICJ), which updates its guidance regularly, states that a person or group can counterattack if: 
+
+    1. The counterattack will only affect the party that attacked first.
+    2. The counterattack is a direct communication asking the initial attacker to stop.
+    3. The counterattack does not escalate the situation.
+    4. The counterattack effects can be reversed.
+
+Organizations typically do not counterattack because the above scenarios and parameters are hard to measure.
+There is a lot of uncertainty dictating what is and is not lawful, and at times negative outcomes are very difficult to control.
+Counterattack actions generally lead to a worse outcome, especially when you are not an experienced professional in the field. 
+
+To learn more about specific scenarios and ethical concerns from an international perspective, review updates provided in the Tallinn Manual online.
+
+================================================================================================================================
+
+Glossary:
+
+Terms and definitions from Course 1, Module 3
+Asset: An item perceived as having value to an organization 
+
+Availability: The idea that data is accessible to those who are authorized to access it
+
+Compliance: The process of adhering to internal standards and external regulations
+
+Confidentiality: The idea that only authorized users can access specific assets or data
+
+Confidentiality, integrity, availability (CIA) triad: A model that helps inform how organizations consider risk when setting up systems and security policies
+
+Hacktivist: A person who uses hacking to achieve a political goal
+
+Health Insurance Portability and Accountability Act (HIPAA): A U.S. federal law established to protect patients' health information
+
+Integrity: The idea that the data is correct, authentic, and reliable
+
+National Institute of Standards and Technology (NIST) Cyber Security Framework (CSF): A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+
+Privacy protection: The act of safeguarding personal information from unauthorized use
+
+Protected health information (PHI): Information that relates to the past, present, or future physical or mental health or condition of an individual
+
+Security architecture: A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threats
+
+Security controls: Safeguards designed to reduce specific security risks
+
+Security ethics: Guidelines for making appropriate decisions as a security professional
+
+Security frameworks: Guidelines used for building plans to help mitigate risk and threats to data and privacy
+
+Security governance: Practices that help support, define, and direct security efforts of an organization
+
+Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+
