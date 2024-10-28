@@ -172,4 +172,3 @@ SIEM tools: A software platform that collects, analyzes, and correlates security
 Splunk Cloud: A cloud-hosted tool used to collect, search, and monitor log data
 
 Splunk Enterprise: A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time
-
