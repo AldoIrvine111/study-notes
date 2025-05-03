@@ -498,4 +498,3 @@ Whaling: A category of spear phishing attempts that are aimed at high-ranking ex
 Web-based exploits: Malicious code or behavior that’s used to take advantage of coding flaws in a web application
 
 =================================================================================================================================================================
-
